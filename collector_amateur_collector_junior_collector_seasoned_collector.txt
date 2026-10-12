@@ -1,0 +1,2400 @@
+1. Device id: and_23317dc2f918702cfe0b1d4b70587be1o1jwjbau7lc9jju8dbc3d869-be8e-44e7-8fc5-f493d20d5ec9
+
+  NAME:                     teing saha(:
+  LEVEL:                    26
+  Country:                  id
+  Creation Date:            2022-04-28 19:47:20
+  Skin Count:               12
+  Hero Count:               17
+  Collector Point:          1735
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       29530
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic III
+  Role ID:                  1220392069
+  Zone ID:                  13968
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Indonesia, Jawa Barat, Kota Bogor, Bogor Barat
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    104
+  Credits Score:            100/110
+  Followers:                21
+  Popularity:               184
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1113
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:18 (20732d 14h 25m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            210
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Balmond, Badang, Miya, Zilong, Alucard, Balmond, Esmeralda, Balmond, Esmeralda, Esmeralda, Esmeralda, Esmeralda, Esmeralda, Clint, Esmeralda, Balmond, Esmeralda, Clint, Pharsa, Clint, Gord, Esmeralda, Ruby, Esmeralda, Balmond, Balmond, Esmeralda, Esmeralda, Esmeralda, Esmeralda, Esmeralda, Clint, Martis, Martis, Clint, Pharsa, Martis, Martis, Pharsa, Clint, Martis, Lesley, Balmond, Balmond, Lesley, Esmeralda, Esmeralda, Pharsa, Lesley, Eudora
+======================================================================
+2. Device id: and_23248440961158d47508099cabc7c0030vqfhpw6mhc0f3y05afb7f54-fbe6-4db2-a9ae-82e6fa13f8c7
+
+  NAME:                     Clayyy 969
+  LEVEL:                    47
+  Country:                  id
+  Creation Date:            2023-05-30 16:37:02
+  Skin Count:               20
+  Hero Count:               33
+  Collector Point:          2540
+  Collector Tier:           Amateur Collector III
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 1
+  Exceptional Skins         : 0
+  Common Skins              : 19
+  Achievement Points:       50120
+  Squad:                    DS DELTA SLAUGHTER
+  CURRENT RANK:             Elite I
+  HIGHEST RANK:             Mythical Honor 42
+  Role ID:                  1434760438
+  Zone ID:                  15944
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Philippines, Aurora, San Luis, Ditumabo
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    221
+  Credits Score:            104/110
+  Followers:                15
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1596
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:26 (20732d 14h 17m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            150
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       20
+  Tickets:                  380
+  Last Diamond Purchase:    2023-12-01 12:04 (1040d 10h 39m ago) PHT
+
+  History:                  Zilong, Moskov, Alucard, Alucard, Alucard, Alucard, Alucard, Alucard, Layla, Leomord, Layla, Layla, Layla, Layla, Layla, Tigreal, Moskov, Alucard, Lesley, Moskov, Alucard, Moskov, Moskov, Alucard, Alucard, Alucard, Alucard, Martis, Alucard, Alucard, Alucard, Alucard, Alucard, Alucard, Roger, Dyrroth, Zilong, Alucard, Alucard, Alucard, Alucard, Alucard, Alucard, Zilong, Zilong, Zilong, Alucard, Alucard, Bane, Alucard
+======================================================================
+3. Device id: and_2048cd7c29a035a00f3753c0134fffcangfz7zy2xc4s0p0jd3745604-a084-4a4c-a40e-a0bbd4c0e943
+
+  NAME:                     Kuhakuu_gamer
+  LEVEL:                    49
+  Country:                  id
+  Creation Date:            2018-03-14 23:10:47
+  Skin Count:               18
+  Hero Count:               35
+  Collector Point:          1925
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 18
+  Achievement Points:       35320
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic II
+  Role ID:                  186766043
+  Zone ID:                  2969
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Indonesia, Nusa Tenggara Barat, Lombok Utara, Tanjung, Sokong
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    195
+  Credits Score:            104/110
+  Followers:                57
+  Popularity:               53
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1062
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            570
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       18
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Unknown(295), Roger, Chou, Eudora, Chou, Baxia, Jawhead, Jawhead, Jawhead, Tigreal, Jawhead, Jawhead, Rafaela, Silvanna, Alice, Beatrix, Aamon, Alice, Melissa, Miya, Beatrix, Kagura, Melissa, Aamon, Kagura, Baxia, Natalia, Aamon, Chou, Melissa, Natalia, Natalia, Aamon, Aamon, Beatrix, Aamon, Zilong, Aamon, Aamon, Aamon, Aamon, Aamon, Silvanna, Natalia, Sun, Beatrix, Sun, Silvanna, Sun
+======================================================================
+4. Device id: and_2364ae454fe27785dcda35816411689dbjtz0iot4yn1jeom04342a2a-88b9-4e41-b85e-24011335b216
+
+  NAME:                     Tjokro@minato
+  LEVEL:                    27
+  Country:                  id
+  Creation Date:            2022-10-12 13:08:58
+  Skin Count:               12
+  Hero Count:               27
+  Collector Point:          1210
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       17860
+  Squad:                    —
+  CURRENT RANK:             Elite I
+  HIGHEST RANK:             Epic IV
+  Role ID:                  1307285037
+  Zone ID:                  15338
+  Last Login:               2026-10-06 22:42 (0d 0h 0m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    48
+  Credits Score:            100/110
+  Followers:                18
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1022
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            180
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    2022-10-17 13:28 (1450d 9h 15m ago) PHT
+
+  History:                  Tigreal, Nana, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond
+======================================================================
+5. Device id: and_2449a1e76dcdd2ab070820473f3bd54fgv8mywc9s955o6vk9c8c0bf4-1aee-4925-8dd7-3c331601a4c0
+
+  NAME:                     i love you to
+  LEVEL:                    37
+  Country:                  iq
+  Creation Date:            2021-03-25 02:30:24
+  Skin Count:               12
+  Hero Count:               27
+  Collector Point:          2170
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 1
+  Exceptional Skins         : 1
+  Common Skins              : 9
+  Achievement Points:       34140
+  Squad:                    • Gus—
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic III
+  Role ID:                  934124154
+  Zone ID:                  6447
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             4157
+  Affinity:                 Gold
+  Likes:                    234
+  Credits Score:            100/110
+  Followers:                88
+  Popularity:               195
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1173
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:19 (20732d 14h 24m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            880
+  Win Rate:                 32.3%
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    2025-06-03 01:07 (490d 21h 35m ago) PHT
+
+  History:                  Tigreal, Zilong, Yin, Zilong, Lesley, Layla, Lesley, Selena, Karina, Yin, Layla, Lesley, Selena, Zilong, Zilong, Zilong, Zilong, Selena, Selena, Karina, Layla, Lesley, Layla, Estes, Zilong, Selena, Zilong, Zilong, Zilong, Johnson, Zilong, Layla, Selena, Granger, Johnson, Layla, Yin, Estes, Zilong, Zilong, Selena, Karina, Zilong, Selena, Karina, Fanny, Zilong, Fanny, Layla, Johnson
+======================================================================
+6. Device id: and_237a87083ea6b4aa6dc3345c59d278aclvcvmkpkledkwe46f3d85feb-2859-421e-a9ee-7a479d9ea5b6
+
+  NAME:                     JOHAN™
+  LEVEL:                    33
+  Country:                  co
+  Creation Date:            2021-06-26 12:31:04
+  Skin Count:               17
+  Hero Count:               18
+  Collector Point:          1770
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 17
+  Achievement Points:       18140
+  Squad:                    bash Sabash ✧
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master I
+  Role ID:                  1003577344
+  Zone ID:                  5315
+  Last Login:               2026-10-06 22:42 (0d 0h 0m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             3826
+  Affinity:                 Silver
+  Likes:                    161
+  Credits Score:            98/110
+  Followers:                17
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            170
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       17
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Martis, Martis, Alice, Alice, Alice, Alice, Martis, Alice, Alice, Alice, Alice, Alice, Alice, Tigreal, Alice, Alice, Alice, Bruno, Miya, Bruno, Bruno, Alice, Alice, Alice, Alice, Saber, Bruno, Alice, Miya, Alice, Miya, Miya, Saber, Alice, Alice, Bruno, Alice, Alice, Miya, Tigreal, Martis, Alice, Miya, Miya, Tigreal, Alice, Alice, Alice, Alice
+======================================================================
+7. Device id: and_23ceb506a671cb51b136a5a0f78196bf7e730ff6tjrwmvz5a0c85497-d237-4e53-8da3-941014fefc8a
+
+  NAME:                     Durachok Incorrect
+  LEVEL:                    27
+  Country:                  ru
+  Creation Date:            2023-06-01 18:41:04
+  Skin Count:               11
+  Hero Count:               24
+  Collector Point:          1170
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 11
+  Achievement Points:       18880
+  Squad:                    —
+  CURRENT RANK:             Grandmaster III
+  HIGHEST RANK:             Grandmaster III
+  Role ID:                  1435782012
+  Zone ID:                  6686
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    109
+  Credits Score:            100/110
+  Followers:                24
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            240
+  Win Rate:                 59.6%
+  Battle Points (BP):       11
+  Tickets:                  360
+  Last Diamond Purchase:    2023-06-02 00:16 (1222d 22h 27m ago) PHT
+
+  History:                  Ling, Alice, Estes, Gord, Gord, Dyrroth, Dyrroth, Dyrroth, Alice, Nana, Nana, Alice, Alice, Alice, Alice, Alice, Alice, Alice, Alice, Alice, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Vexana, Dyrroth, Dyrroth, Saber, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Miya, Dyrroth, Dyrroth, Layla, Dyrroth, Dyrroth, Dyrroth, Martis, Suyou, Saber, Martis, Saber, Martis, Saber, Ling, Ling
+======================================================================
+8. Device id: and_260fe2ba5c8e1626058a8e9a810faa189pvk45qlcrlfdp9mdb545c1a-eff1-4369-882c-d030177759b1
+
+  NAME:                     Dindakartika_
+  LEVEL:                    16
+  Country:                  ph
+  Creation Date:            2017-07-23 01:40:33
+  Skin Count:               15
+  Hero Count:               13
+  Collector Point:          1645
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 14
+  Achievement Points:       20670
+  Squad:                    —
+  CURRENT RANK:             Elite IV
+  HIGHEST RANK:             Master IV
+  Role ID:                  79749773
+  Zone ID:                  9423
+  Last Login:               2026-10-06 22:42 (0d 0h 0m ago) PHT
+  Location:                 Indonesia, Kalimantan Selatan, Tapin, Salam Babaris
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    54
+  Credits Score:            100/110
+  Followers:                39
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1595
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:26 (20732d 14h 17m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            390
+  Win Rate:                 17.7%
+  Battle Points (BP):       15
+  Tickets:                  260
+  Last Diamond Purchase:    2021-12-05 20:28 (1766d 2h 14m ago) PHT
+
+  History:                  Estes, Miya, Roger, Karina, Badang, Granger, Yin, Karrie, Wanwan, Balmond, Granger, Tigreal, Karina, Karina, Layla, Zilong, Alucard, Yu Zhong, Alucard, Karina, Alucard, Karina, Karina, Zilong, Karina, Lancelot, Karina, Hilda, Harley, Karina, Alucard, Hilda, Alucard, Karina, Guinevere, Fanny, Fanny, Karina, Karina, Karina, Karina, Layla, Karina, Karina, Karina, Karina, Karina, Hilda, Layla, Hilda
+======================================================================
+9. Device id: and_2560d6c8db0e8645e87e98b29d8486aapdmfj2g7uy152ri0a8276e7d-f77e-42a5-825d-89d523561f6d
+
+  NAME:                     Kiuomah
+  LEVEL:                    22
+  Country:                  id
+  Creation Date:            2021-06-30 22:10:57
+  Skin Count:               9
+  Hero Count:               16
+  Collector Point:          1015
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 8
+  Achievement Points:       21360
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master III
+  Role ID:                  1006992106
+  Zone ID:                  13002
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    120
+  Credits Score:            100/110
+  Followers:                23
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1595
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:26 (20732d 14h 17m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            230
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       9
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Layla, Alucard, Zilong, Zilong, Franco, Martis, Lancelot, Martis, Hanzo, Hanzo, Martis, Khaleef, Khaleef, Khaleef, Khaleef, Layla, Khaleef, Grock, Gatotkaca, Franco, Franco, Franco, Grock, Gatotkaca, Gatotkaca, Grock, Franco, Fanny, Kagura, Ling, Franco, Zilong, Zilong, Zilong, Zilong, Balmond, Zilong, Kagura, Franco, Khufra, Clint, Aamon, Esmeralda, Grock, Phoveus, Uranus, Phoveus, Lylia, Aamon
+======================================================================
+10. Device id: and_240b0d802319ab808ceea7db0c93d26d7362vfqjg2yyagzmc1148b96-e66a-415b-8b06-c0e6ded1fc40
+
+  NAME:                     Anak ke1
+  LEVEL:                    36
+  Country:                  id
+  Creation Date:            2022-02-16 12:17:56
+  Skin Count:               24
+  Hero Count:               37
+  Collector Point:          3120
+  Collector Tier:           Amateur Collector II
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 24
+  Achievement Points:       36400
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend IV
+  Role ID:                  1171243671
+  Zone ID:                  13743
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    194
+  Credits Score:            100/110
+  Followers:                43
+  Popularity:               27
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1046
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        5
+
+  Total Battles:            430
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       24
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Hanabi, Angela, Angela, Angela, Angela, Zhask, Angela, Angela, Angela, Angela, Angela, Angela, Angela, Odette, Nana, Eudora, Hanabi, Nana, Minotaur, Minotaur, Diggie, Chou, Hanabi, Minotaur, Hanabi, Hanabi, Hanabi, Popol and Kupa, Minotaur, Popol and Kupa, Franco, Diggie, Nana, Layla, Layla, Layla, Nana, Franco, Eudora, Franco, Nana, Franco, Nana, Clint, Franco, Nana, Cyclops, Minotaur, Paquito
+======================================================================
+11. Device id: and_2603224511084d836c4c8c091a264fa96lga274c4vco194k290490a5-7ccf-4080-8b8a-5626bece713a
+
+  NAME:                     Chaca*27
+  LEVEL:                    44
+  Country:                  id
+  Creation Date:            2023-10-12 16:23:52
+  Skin Count:               17
+  Hero Count:               105
+  Collector Point:          2710
+  Collector Tier:           Amateur Collector III
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 0
+  Achievement Points:       34550
+  Squad:                    —
+  CURRENT RANK:             Elite I
+  HIGHEST RANK:             Mythical Honor 26
+  Role ID:                  1503471294
+  Zone ID:                  16280
+  Last Login:               2026-10-06 22:42 (0d 0h 0m ago) PHT
+  Location:                 Indonesia, Sumatera Selatan, Palembang, Kemuning
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    0
+  Credits Score:            100/110
+  Followers:                41
+  Popularity:               197
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1188
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        None
+  Last Heroes Purchase:     1970-01-01 08:19 (20732d 14h 23m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            0
+  Win Rate:                 N/A
+  Battle Points (BP):       17
+  Tickets:                  310
+  Last Diamond Purchase:    N/A
+
+  History:                  Floryn, Layla, Layla, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Layla, Hanabi, Hanabi, Layla, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi, Layla, Layla, Hanabi, Hanabi, Hanabi, Hanabi, Layla, Hanabi, Hanabi, Hanabi, Freya, Layla, Hanabi, Hanabi, Hanabi, Hanabi, Hanabi
+======================================================================
+12. Device id: and_2645d92fc322db9b4463cb1c050d85f50zo484sjhookfv0f15484b62-3e98-4e48-83e0-ca5b7bdc70f4
+
+  NAME:                     小さ黒
+  LEVEL:                    45
+  Country:                  ar
+  Creation Date:            2019-12-19 12:54:36
+  Skin Count:               29
+  Hero Count:               25
+  Collector Point:          5135
+  Collector Tier:           Junior Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 3
+  Exceptional Skins         : 6
+  Common Skins              : 20
+  Achievement Points:       31250
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic I
+  Role ID:                  1466637512
+  Zone ID:                  1629
+  Last Login:               2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Location:                 Argentina, Santa Fe, Rosario
+
+  Rating Score:             0
+  Affinity:                 Luca, Virulenta, CadaverPistolero16
+  Likes:                    562
+  Credits Score:            104/110
+  Followers:                25
+  Popularity:               282
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1554
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:25 (20732d 14h 17m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            250
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       29
+  Tickets:                  260
+  Last Diamond Purchase:    2023-12-05 10:12 (1036d 12h 31m ago) PHT
+
+  History:                  Freya, Pharsa, Angela, Layla, Clint, Clint, Xavier, Novaria, Angela, Novaria, Lolita, Minotaur, Novaria, Novaria, Novaria, Novaria, Fredrinn, Novaria, Esmeralda, Fredrinn, Novaria, Novaria, Novaria, Novaria, Novaria, Novaria, Floryn, Novaria, Novaria, Floryn, Novaria, Novaria, Edith, Edith, Kimmy, Esmeralda, Floryn, Novaria, Angela, Novaria, Floryn, Novaria, Angela, Angela, Novaria, Novaria, Novaria, Novaria, Novaria, Novaria
+======================================================================
+13. Device id: and_26873fdfeb5ea3fe1d24f87ecde6dc68fe48oq2gm2u0dcmd527ec6c4-1b99-4025-8f3a-c7d78c3ba1d5
+
+  NAME:                     HACKER INDONESIA.
+  LEVEL:                    24
+  Country:                  id
+  Creation Date:            2020-12-16 17:47:09
+  Skin Count:               17
+  Hero Count:               21
+  Collector Point:          1970
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 16
+  Achievement Points:       24270
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic III
+  Role ID:                  865967117
+  Zone ID:                  12436
+  Last Login:               2026-10-06 22:42 (0d 0h 0m ago) PHT
+  Location:                 Indonesia, Jawa Barat, Bandung, Margahayu, Sukamenak
+
+  Rating Score:             0
+  Affinity:                 Pacarnyarizput
+  Likes:                    281
+  Credits Score:            100/110
+  Followers:                48
+  Popularity:               78
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            480
+  Win Rate:                 42.5%
+  Battle Points (BP):       17
+  Tickets:                  260
+  Last Diamond Purchase:    2021-01-09 23:32 (2095d 23h 11m ago) PHT
+
+  History:                  Unknown(294), Tigreal, Tigreal, Nana, Alpha, Kagura, Balmond, Chou, Aulus, Chou, Ling, Beatrix, Julian, Fanny, Lancelot, Aulus, Fanny, Aulus, Aulus, Aulus, Aulus, Roger, Roger, Alucard, Balmond, Lancelot, Lancelot, Kagura, Claude, Hayabusa, Zilong, Kagura, Lancelot, Fanny, Lancelot, Kagura, Chou, Lancelot, Lancelot, Lancelot, Lancelot, Ling, Balmond, Hayabusa, Hayabusa, Fanny, Lancelot, Lancelot, Fanny, Ling
+======================================================================
+14. Device id: and_2a90f3a1fa7d97a61234bd05c4e690183jqlqgrd173ww6xyddf11c37-d84e-4850-9a8a-ca0aa291028c
+
+  NAME:                     FitZ
+  LEVEL:                    43
+  Country:                  id
+  Creation Date:            2018-04-02 07:48:07
+  Skin Count:               16
+  Hero Count:               29
+  Collector Point:          1690
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 16
+  Achievement Points:       34700
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster II
+  Role ID:                  25867878
+  Zone ID:                  2033
+  Last Login:               2025-01-14 07:10 (630d 15h 33m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    152
+  Credits Score:            101/110
+  Followers:                39
+  Popularity:               78
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2025-01-14 08:23 (630d 14h 20m ago) PHT
+  Latest Skin ID:           1156
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:19 (20732d 14h 24m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            397
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       16
+  Tickets:                  260
+  Last Diamond Purchase:    2025-01-14 07:03 (630d 15h 40m ago) PHT
+
+  History:                  Yve, Nana, Lancelot, Aldous, Miya, Clint, Clint, Alucard, Clint, Esmeralda, Wanwan, Roger, Balmond, Alucard, Alucard, Alucard, Aldous, Balmond, Balmond, Balmond, Clint, Alucard, Alucard, Alucard, Clint, Alucard, Alucard, Aldous, Franco, Akai, Aldous, Aldous, Roger, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous, Aldous
+======================================================================
+15. Device id: and_28117fa2342d7f3c93e1b4f3756654a3czhngq7raz7o7r1r0a0e3d8b-3f80-406a-b199-70cc313475b3
+
+  NAME:                     ~OniiChan~
+  LEVEL:                    49
+  Country:                  id
+  Creation Date:            2022-04-28 04:18:52
+  Skin Count:               24
+  Hero Count:               30
+  Collector Point:          2695
+  Collector Tier:           Amateur Collector III
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 2
+  Common Skins              : 22
+  Achievement Points:       39340
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster I
+  Role ID:                  226087563
+  Zone ID:                  9174
+  Last Login:               2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Location:                 North Korea, 	평양직할시, Pyongyang
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    445
+  Credits Score:            100/110
+  Followers:                94
+  Popularity:               1
+  Bio:                      belajar duls
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1586
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:26 (20732d 14h 17m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            940
+  Win Rate:                 92.8%
+  Battle Points (BP):       24
+  Tickets:                  260
+  Last Diamond Purchase:    2025-05-17 22:47 (506d 23h 56m ago) PHT
+
+  History:                  Phoveus, Phoveus, Dyrroth, Phoveus, Lesley, Lesley, Lesley, Lesley, Alucard, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Dyrroth, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Lesley, Eudora, Lesley, Alucard, Alucard, Esmeralda, Lesley, Alpha, Tigreal, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth
+======================================================================
+16. Device id: and_26989aa7b0c25701cdf0943189303ee64eemwvfve58dr2b3c326f913-3efc-407d-9f3a-15f675ef42b7
+
+  NAME:                     saidahmadmukhtar
+  LEVEL:                    45
+  Country:                  id
+  Creation Date:            2021-04-05 13:35:48
+  Skin Count:               22
+  Hero Count:               35
+  Collector Point:          3460
+  Collector Tier:           Amateur Collector I
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 2
+  Exceptional Skins         : 1
+  Common Skins              : 19
+  Achievement Points:       33860
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend IV
+  Role ID:                  1578144539
+  Zone ID:                  16610
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Indonesia, Jawa Barat, Karawang, Rawamerta
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    154
+  Credits Score:            100/110
+  Followers:                51
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1844
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:30 (20732d 14h 13m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            510
+  Win Rate:                 94.3%
+  Battle Points (BP):       22
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Dyrroth, Alpha, Martis, Vexana, Dyrroth, Dyrroth, Dyrroth, Nana, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Vexana, Nana, Dyrroth, Dyrroth, Chang'e, Cecilion, Lancelot, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Layla, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Nana, Layla, Nana, Vexana, Nana, Vexana, Nana, Layla, Dyrroth, Alpha, Dyrroth, Layla, Vexana, Angela, Dyrroth, Layla, Layla, Dyrroth, Vexana
+======================================================================
+17. Device id: and_28296b38e4d3ad728791e3883bc892c17b9qmqlwouf9xagb6171c4eb-2919-4011-81db-ea760e4e55c7
+
+  NAME:                     Super_Cement08
+  LEVEL:                    25
+  Country:                  id
+  Creation Date:            2020-04-04 16:56:41
+  Skin Count:               13
+  Hero Count:               25
+  Collector Point:          1800
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 13
+  Achievement Points:       24090
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master II
+  Role ID:                  1337676550
+  Zone ID:                  15503
+  Last Login:               2026-10-06 22:41 (0d 0h 2m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    78
+  Credits Score:            100/110
+  Followers:                70
+  Popularity:               258
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1022
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            700
+  Win Rate:                 17.4%
+  Battle Points (BP):       13
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Zilong, Granger, Clint, Miya, Hylos, Bruno, Alucard, Bruno, Bruno, Bruno, Bruno, Bruno, Granger, Bruno, Vale, Suyou, Vale, Bruno, Claude, Nana, Alucard, Bruno, Lancelot, Alucard, Bruno, Alucard, Alucard, Alucard, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Bruno, Zilong, Bruno, Zilong, Bruno, Bruno, Zilong
+======================================================================
+18. Device id: and_283242ce9d31fce84cebf157bdd7f51402dnaozo8907ssz872dfe985-2a01-427c-9222-2ee624a3fd04
+
+  NAME:                     Farm Loot
+  LEVEL:                    27
+  Country:                  id
+  Creation Date:            2019-04-23 18:00:27
+  Skin Count:               12
+  Hero Count:               24
+  Collector Point:          1360
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       23110
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic I
+  Role ID:                  86788018
+  Zone ID:                  6053
+  Last Login:               2026-10-06 22:41 (0d 0h 2m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    269
+  Credits Score:            100/110
+  Followers:                13
+  Popularity:               1
+  Bio:                      Leonord
+  Latest Skin Purchase Date: 2026-10-06 22:42 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            130
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Ruby, Layla, Yve, Selena, Rafaela, Hanzo, Estes
+======================================================================
+19. Device id: and_27b230ca0523e77fe1d5984879936203io2wbyt3c161i8aua01ea85e-a150-420e-a827-6dadee8fb545
+
+  NAME:                     no purpose flour
+  LEVEL:                    61
+  Country:                  ph
+  Creation Date:            2019-08-27 18:51:47
+  Skin Count:               106
+  Hero Count:               79
+  Collector Point:          19755
+  Collector Tier:           Seasoned Collector I
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 10
+  Exceptional Skins         : 27
+  Common Skins              : 61
+  Achievement Points:       77650
+  Squad:                    —
+  CURRENT RANK:             Mythic 2
+  HIGHEST RANK:             Mythical Immortal 89
+  Role ID:                  1461122801
+  Zone ID:                  11676
+  Last Login:               2026-10-06 22:40 (0d 0h 3m ago) PHT
+  Location:                 United Kingdom, England, Manchester, Manchester
+
+  Rating Score:             256
+  Affinity:                 Sean., Anita Max Wynn
+  Likes:                    1010
+  Credits Score:            109/110
+  Followers:                53
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1977
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           No
+  Restriction Flags:        42.9% ⚠️ (Medium Risk)
+  Last Heroes Purchase:     1970-01-01 08:32 (20732d 14h 10m ago) PHT
+  MCL Champion Wins:        25
+
+  Total Battles:            530
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       106
+  Tickets:                  1210
+  Last Diamond Purchase:    N/A
+
+  History:                  Barats, Hayabusa, Hayabusa, Lukas, Karina, Barats, Barats, Barats, Barats, Barats, Nolan, Karina, X.Borg, X.Borg, Paquito, Barats, Hayabusa, Hayabusa, Lukas, Barats, Barats, Hayabusa, Hayabusa, Barats, Barats, Barats, Hayabusa, Barats, Barats, Carmilla, Barats, Barats, Lukas, Barats, Barats, Esmeralda, Barats, Suyou, Barats, Benedetta, Masha, Masha, Lukas, Lancelot, Masha, Lancelot, Kimmy, Barats, Barats, Paquito
+======================================================================
+20. Device id: and_25743206fabd2311f12955e35a9ad0d5r1vbfrhbz8kk8zrsf561caae-f0f6-4deb-9009-f3e295e9047a
+
+  NAME:                     Only Mia
+  LEVEL:                    50
+  Country:                  ru
+  Creation Date:            2020-09-11 23:02:50
+  Skin Count:               28
+  Hero Count:               17
+  Collector Point:          3265
+  Collector Tier:           Amateur Collector II
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 3
+  Common Skins              : 25
+  Achievement Points:       55220
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic III
+  Role ID:                  22088572
+  Zone ID:                  6025
+  Last Login:               2026-10-06 22:41 (0d 0h 2m ago) PHT
+  Location:                 Russia, Ивановская область, Иваново,
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    356
+  Credits Score:            100/110
+  Followers:                32
+  Popularity:               88
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1274
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:21 (20732d 14h 22m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            320
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       28
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Tigreal, Miya, Miya, Miya, Miya, Pharsa, Pharsa, Miya, Miya, Layla, Zilong, Miya, Miya, Miya, Miya, Layla, Miya, Layla, Layla, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Layla, Miya
+======================================================================
+21. Device id: and_267a06332e14bafda068f96eafcd4bceo91gzfz7e4vraox7ce9961d1-fd3c-4681-82c7-9f3999c01465
+
+  NAME:                     Syifa(kemas)
+  LEVEL:                    22
+  Country:                  id
+  Creation Date:            2018-09-05 19:50:33
+  Skin Count:               9
+  Hero Count:               16
+  Collector Point:          1035
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 8
+  Achievement Points:       27290
+  Squad:                    ARM ARM Esports
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend I
+  Role ID:                  1105326379
+  Zone ID:                  13443
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    218
+  Credits Score:            100/110
+  Followers:                18
+  Popularity:               2
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1483
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:24 (20732d 14h 19m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            180
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       9
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Angela, Layla, Lylia, Luo Yi, Lylia, Lylia, Nana, Nana, Nana, Luo Yi, Nana, Lylia, Layla, Layla, Angela, Layla, Eudora, Rafaela, Lylia, Vale, Nana, Rafaela, Rafaela, Rafaela, Rafaela, Nana, Vale, Vale, Vale, Angela, Angela, Angela, Angela, Vale, Vale, Vale, Nana, Nana, Nana, Rafaela, Rafaela, Rafaela, Nana, Nana, Eudora, Nana, Nana, Angela, Angela, Angela
+======================================================================
+22. Device id: and_26cf255530f535fd3a1d40aceb01757clkqejye8shs1rzsg1e42f532-f5bf-46fe-bfec-3bdd1256111e
+
+  NAME:                     ricksdefender
+  LEVEL:                    30
+  Country:                  br
+  Creation Date:            2024-03-23 00:27:32
+  Skin Count:               12
+  Hero Count:               22
+  Collector Point:          1320
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       37750
+  Squad:                    naru Narusawa
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend IV
+  Role ID:                  638489026
+  Zone ID:                  1253
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Brazil, Bahia, Porto Seguro, Porto Seguro
+
+  Rating Score:             4492
+  Affinity:                 Gold
+  Likes:                    383
+  Credits Score:            98/110
+  Followers:                12
+  Popularity:               109
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1113
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:18 (20732d 14h 25m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            120
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       12
+  Tickets:                  310
+  Last Diamond Purchase:    2020-03-26 06:28 (2385d 16h 15m ago) PHT
+
+  History:                  Akai, Akai, Ixia, Ixia, Ixia, Ixia, Ixia, Ixia, Ixia, Ixia, Ixia, Akai, Tigreal, Akai, Akai, Tigreal, Bane, Lylia, Luo Yi, Claude, Claude, Bruno, Kagura, Franco, Bruno, Clint, Claude, Franco, Claude, Franco, Claude, Franco, Akai, Franco, Claude, Claude, Kagura, Bruno, Bruno, Kagura, Franco, Tigreal, Tigreal, Franco, Franco, Franco, Clint, Lylia, Claude, Selena
+======================================================================
+23. Device id: and_285c8425afe2049984520fb3b49f7103ru1hmy5vbbe6qmbq8e46dbf6-0d98-4143-9696-d147a24e2a8a
+
+  NAME:                     クロコダイル
+  LEVEL:                    48
+  Country:                  id
+  Creation Date:            2020-08-06 07:51:56
+  Skin Count:               17
+  Hero Count:               22
+  Collector Point:          2110
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 2
+  Common Skins              : 15
+  Achievement Points:       32450
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic III
+  Role ID:                  622253520
+  Zone ID:                  8484
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Indonesia, Sulawesi Selatan, Toraja Utara, Tallunglipu
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    401
+  Credits Score:            100/110
+  Followers:                51
+  Popularity:               126
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1724
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:28 (20732d 14h 15m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            514
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       17
+  Tickets:                  260
+  Last Diamond Purchase:    2021-06-10 10:29 (1944d 12h 14m ago) PHT
+
+  History:                  Rafaela, Selena, Selena, Selena, Moskov, Brody, Ruby, Granger, Miya, Selena, Odette, Selena, Natalia, Selena, Selena, Esmeralda, Selena, Esmeralda, Hanzo, Selena, Selena, Hylos, Kadita, Jawhead, Lylia, Layla, Lylia, Lylia, Lylia, Lylia, Lylia, Lylia, Lylia, Harley, Angela, Odette, Lylia, Layla, Odette, Selena, Natalia, Harley, Selena, Angela, Lylia, Selena, Lylia, Selena, Angela, Angela
+======================================================================
+24. Device id: and_2629a38f2d57b1dec2790566d6e32e8bbmiqgcz1v7vtswybb0b2008e-13e0-482c-9a95-073b52dec68f
+
+  NAME:                     kiss muna
+  LEVEL:                    19
+  Country:                  bd
+  Creation Date:            2022-07-23 20:34:05
+  Skin Count:               10
+  Hero Count:               13
+  Collector Point:          1050
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 10
+  Achievement Points:       15720
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster I
+  Role ID:                  1148036338
+  Zone ID:                  13652
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Philippines, Pangasinan, San Carlos City, Bolosan
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    106
+  Credits Score:            100/110
+  Followers:                19
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1035
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            190
+  Win Rate:                 92.1%
+  Battle Points (BP):       10
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Dyrroth, Lesley, Zilong, Dyrroth, Minotaur, Fanny, Fanny, Fanny, Layla, Layla, Layla, Layla, Lapu-Lapu, Layla, Layla, Zilong, Layla, Alucard, Layla, Zilong, Layla, Layla, Zilong, Layla, Layla, Layla, Zilong, Zilong, Zilong, Layla, Layla, Layla, Layla, Layla, Eudora, Layla, Saber, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla
+======================================================================
+25. Device id: and_27ad0bcedc3079018a2d39e412ae2fa5cubszovbyy04cq466cdd4ad8-a2c7-47bb-a116-1b084f73b37d
+
+  NAME:                     Oikawa~Toru
+  LEVEL:                    28
+  Country:                  ph
+  Creation Date:            2018-08-15 23:49:59
+  Skin Count:               23
+  Hero Count:               23
+  Collector Point:          2670
+  Collector Tier:           Amateur Collector III
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 23
+  Achievement Points:       27940
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master I
+  Role ID:                  889126442
+  Zone ID:                  10709
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Philippines, Metropolitan Manila, Taguig, Ususan
+
+  Rating Score:             0
+  Affinity:                 Yoshi69
+  Likes:                    358
+  Credits Score:            104/110
+  Followers:                59
+  Popularity:               126
+  Bio:                      Ello
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1054
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        1
+
+  Total Battles:            592
+  Win Rate:                 66.2%
+  Battle Points (BP):       23
+  Tickets:                  260
+  Last Diamond Purchase:    2023-02-26 14:07 (1318d 8h 36m ago) PHT
+
+  History:                  Dyrroth, Fanny, Franco, Dyrroth, Dyrroth, Alucard, Dyrroth, Miya, Dyrroth, Miya, Miya, Alucard, Dyrroth, Miya, Dyrroth, Zilong, Dyrroth, Diggie, Dyrroth, Miya, Dyrroth, Grock, Dyrroth, Zilong, Dyrroth, Dyrroth, Grock, Dyrroth, Saber, Dyrroth, Dyrroth, Dyrroth, Freya, Dyrroth, Dyrroth, Aldous, Johnson, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Dyrroth, Zilong, Zilong, Zilong
+======================================================================
+26. Device id: and_2c6199d1dac288b2c47ac65276192b60sse5hdxp92of8nt91c539ef1-e738-4b70-a0a2-c33fab880ea2
+
+  NAME:                     πSnowπ
+  LEVEL:                    31
+  Country:                  br
+  Creation Date:            2019-04-25 06:35:51
+  Skin Count:               30
+  Hero Count:               36
+  Collector Point:          3850
+  Collector Tier:           Amateur Collector I
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 4
+  Common Skins              : 25
+  Achievement Points:       36470
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend III
+  Role ID:                  430368892
+  Zone ID:                  1204
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Brazil, Paraná, Colombo, Colombo
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    395
+  Credits Score:            100/110
+  Followers:                46
+  Popularity:               90
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1973
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:32 (20732d 14h 11m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            462
+  Win Rate:                 90.5%
+  Battle Points (BP):       30
+  Tickets:                  260
+  Last Diamond Purchase:    2024-05-03 10:04 (886d 12h 39m ago) PHT
+
+  History:                  Angela, Floryn, Unknown(296), Hayabusa, Lancelot, Suyou, Karina, Hanzo, Suyou, Cecilion, Hanzo, Hanzo, Karina, Aamon, Nolan, Hanzo, Suyou, Suyou, Belerick, Lancelot, Hayabusa, Hanzo, Hayabusa, Karrie, Nolan, Hanzo, Nolan, Hayabusa, Karina, Hanzo, Nolan, Hayabusa, Hanzo, Ling, Hayabusa, Nolan, Nolan, Aamon, Gusion, Lancelot, Hanzo, Hanzo, Kagura, Lancelot, Hanzo, Hanzo, Lancelot, Hanzo, Chou, Yve
+======================================================================
+27. Device id: and_2e347debae344c5f6f689cdb9ce7312c7i37sucjth9rwcn29e2de356-62e8-4d27-817f-ba6ec8999f3e
+
+  NAME:                     Ｐｒｉｌｉ
+  LEVEL:                    24
+  Country:                  id
+  Creation Date:            2016-10-12 11:32:47
+  Skin Count:               14
+  Hero Count:               18
+  Collector Point:          1920
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 14
+  Achievement Points:       31820
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master III
+  Role ID:                  2686981
+  Zone ID:                  2134
+  Last Login:               2026-10-06 14:09 (0d 8h 34m ago) PHT
+  Location:                 Philippines, Lanao del Sur, Marawi City, Tuca Ambolong
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    163
+  Credits Score:            100/110
+  Followers:                70
+  Popularity:               126
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 14:12 (0d 8h 32m ago) PHT
+  Latest Skin ID:           1062
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            700
+  Win Rate:                 28.7%
+  Battle Points (BP):       14
+  Tickets:                  260
+  Last Diamond Purchase:    2021-05-11 09:10 (1974d 13h 33m ago) PHT
+
+  History:                  Tigreal, Tigreal, Tigreal, Tigreal, Tigreal, Clint, Wanwan, Wanwan, Balmond, Karrie, Lesley, Valir, Franco, Wanwan, Ling, Benedetta, Clint, Clint, Franco, Alucard, Alucard, Wanwan, Yin, Natan, Argus, Barats, Franco, Miya, Miya, Zilong, Miya, Roger, Miya, Miya, Miya, Wanwan, Wanwan, Zilong, Miya, Miya, Alucard, Zilong, Clint, Gord, Zilong, Tigreal, Miya, Alucard, Zilong, Wanwan
+======================================================================
+28. Device id: and_2fe185b8ef64cef08baea60c9d841ff5r52klxdhkx5jv0e4809d32e0-2125-436b-bbe6-ecc8a1c97ca8
+
+  NAME:                     Kael
+  LEVEL:                    25
+  Country:                  id
+  Creation Date:            2021-03-10 22:12:02
+  Skin Count:               16
+  Hero Count:               22
+  Collector Point:          1725
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 16
+  Achievement Points:       26780
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic I
+  Role ID:                  924667168
+  Zone ID:                  12671
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    145
+  Credits Score:            100/110
+  Followers:                27
+  Popularity:               243
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1022
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            270
+  Win Rate:                 95.6%
+  Battle Points (BP):       16
+  Tickets:                  260
+  Last Diamond Purchase:    2021-03-18 19:25 (2028d 3h 18m ago) PHT
+
+  History:                  Beatrix, Floryn, Esmeralda, Tigreal, Minotaur, Bane, Fanny, Edith, Edith, Granger, Tigreal, Tigreal, Tigreal, Esmeralda, Aamon, Tigreal, Granger, Miya, Balmond, Tigreal, Balmond, Clint, Tigreal, Beatrix, Balmond, Miya, Beatrix, Saber, Beatrix, Beatrix, Fanny, Beatrix, Beatrix, Granger, Beatrix, Eudora, Beatrix, Beatrix, Aamon, Bane, Clint, Clint, Granger, Beatrix, Granger, Aamon, Aamon, Aamon, Tigreal, Tigreal
+======================================================================
+29. Device id: and_310a6e99d8667848d2a9e5bcdeff0788uop1e21yjfdvf7m1d04a1ee4-a799-496e-adaa-c7473715197b
+
+  NAME:                     ༒Ɩɛɠɛŋɖʂ
+  LEVEL:                    24
+  Country:                  ph
+  Creation Date:            2020-08-29 09:59:49
+  Skin Count:               12
+  Hero Count:               17
+  Collector Point:          1470
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 11
+  Achievement Points:       38250
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic IV
+  Role ID:                  784950787
+  Zone ID:                  10488
+  Last Login:               2026-10-06 22:41 (0d 0h 2m ago) PHT
+  Location:                 Philippines, Palawan, Puerto Princesa City, Santa Lourdes
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    159
+  Credits Score:            100/110
+  Followers:                22
+  Popularity:               421
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            220
+  Win Rate:                 75.9%
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Minotaur, Fanny, Fanny, Fanny, Fanny, Fanny, Fanny, Fanny, Fanny, Silvanna, Rafaela, Rafaela, Rafaela, Rafaela, Rafaela, Rafaela, Rafaela, Rafaela, Rafaela, Rafaela, Rafaela, Baxia, Tigreal, Hilda, Tigreal, Roger, Roger, Roger, Wanwan, Roger, Roger, Roger, Roger, Zilong, Zilong, Layla, Zilong, Layla, Nana, Moskov, Layla, Tigreal, Baxia, Eudora, Layla, Eudora, Moskov, Baxia, Baxia, Baxia
+======================================================================
+30. Device id: and_3279193cd348816f7c4db7d8a4ebf882kvps5f4e5uwei5gpb41e116b-abe5-477d-98b8-436b00b6af39
+
+  NAME:                     Cutiepiee
+  LEVEL:                    30
+  Country:                  ph
+  Creation Date:            2020-04-07 17:54:44
+  Skin Count:               16
+  Hero Count:               30
+  Collector Point:          1685
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 16
+  Achievement Points:       40820
+  Squad:                    L10 Lant10
+  CURRENT RANK:             Epic III
+  HIGHEST RANK:             Mythic 2
+  Role ID:                  672199577
+  Zone ID:                  10241
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Indonesia, Kepulauan Riau, Kepulauan Anambas, Siantan, Terempa Barat
+
+  Rating Score:             3377
+  Affinity:                 Gold
+  Likes:                    826
+  Credits Score:            110/110
+  Followers:                44
+  Popularity:               78
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1035
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            440
+  Win Rate:                 88.6%
+  Battle Points (BP):       16
+  Tickets:                  699
+  Last Diamond Purchase:    2020-05-24 00:20 (2326d 22h 23m ago) PHT
+
+  History:                  Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Hanabi, Pharsa, Popol and Kupa, X.Borg, Popol and Kupa, Popol and Kupa, Popol and Kupa, Mathilda, Popol and Kupa, Popol and Kupa, Popol and Kupa, Popol and Kupa, X.Borg, Mathilda, Popol and Kupa, Popol and Kupa, Popol and Kupa, Mathilda, Popol and Kupa, Popol and Kupa, Popol and Kupa, Mathilda, X.Borg, Popol and Kupa
+======================================================================
+31. Device id: and_33c65d52753bdd4fa66e9d13fadbae00i18zm6pf8tbi0luw3e480a54-c84a-44e5-a153-a3ed6b259882
+
+  NAME:                     RP~Raintzy
+  LEVEL:                    55
+  Country:                  ph
+  Creation Date:            2024-10-01 18:00:21
+  Skin Count:               27
+  Hero Count:               40
+  Collector Point:          4425
+  Collector Tier:           Junior Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 2
+  Exceptional Skins         : 2
+  Common Skins              : 22
+  Achievement Points:       45700
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic IV
+  Role ID:                  1718631137
+  Zone ID:                  14511
+  Last Login:               2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Location:                 Philippines, Bulacan, Baliuag, Santa Barbara
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    467
+  Credits Score:            99/110
+  Followers:                152
+  Popularity:               148
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1669
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:27 (20732d 14h 16m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            1527
+  Win Rate:                 53.4%
+  Battle Points (BP):       27
+  Tickets:                  310
+  Last Diamond Purchase:    N/A
+
+  History:                  Johnson, Miya, Thamuz, Valir, Argus, Luo Yi, Alpha, Ixia, Johnson, Alpha, Selena, Alucard, Beatrix, Moskov, Selena, Clint, Selena, Popol and Kupa, Zilong, Selena, Popol and Kupa, Granger, Gatotkaca, Gatotkaca, Gatotkaca, Gatotkaca, Hayabusa, Guinevere, Gord, Ixia, Saber, Yu Zhong, Aldous, Yi Sun-shin, Ixia, Chou, Zetian, Suyou, Alpha, Argus, Chou, Chou, Alice, Chou, Argus, Chou, Chou, Chou, Hilda, Kagura
+======================================================================
+32. Device id: and_3713c4ae6dcc41382d7068f3ded1cb19ulm69grgnlu9v5t711abdb0c-3240-4fe3-9987-8add0b3652e8
+
+  NAME:                     vayarvayar
+  LEVEL:                    24
+  Country:                  id
+  Creation Date:            2021-03-14 15:59:09
+  Skin Count:               14
+  Hero Count:               26
+  Collector Point:          1650
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 14
+  Achievement Points:       20380
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic II
+  Role ID:                  927178596
+  Zone ID:                  12666
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Indonesia, Jawa Timur, Surabaya, Lakarsantri
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    93
+  Credits Score:            100/110
+  Followers:                35
+  Popularity:               177
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:44 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1142
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:19 (20732d 14h 25m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            350
+  Win Rate:                 48.9%
+  Battle Points (BP):       14
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Grock, Odette, Popol and Kupa, Zilong, Gord, Miya, Tigreal, Estes, Alpha, Alucard, Chou, Odette, Popol and Kupa, Alucard, Bane, Saber, Grock, Bane, Phoveus, Kaja, Popol and Kupa, Bane, X.Borg, Gord, Kaja, Franco, X.Borg, Saber, Clint, Badang, Bane, Clint, Bane, Rafaela, Zilong, Odette, Popol and Kupa, Chang'e, Arlott, Bane, Kaja, Kaja, Chang'e, Kaja, X.Borg, X.Borg, Eudora, Saber, Bane, Layla
+======================================================================
+33. Device id: and_36624f63b006368b6165cf5094a82b4d6dr4i17z445em4v88b0d2d7c-5311-4570-8fc6-8c43232ca56e
+
+  NAME:                     Nikicang
+  LEVEL:                    41
+  Country:                  id
+  Creation Date:            2022-11-19 10:50:45
+  Skin Count:               11
+  Hero Count:               27
+  Collector Point:          1380
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 10
+  Achievement Points:       34660
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend I
+  Role ID:                  1326317160
+  Zone ID:                  15473
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    159
+  Credits Score:            100/110
+  Followers:                26
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:44 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1224
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:20 (20732d 14h 23m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            260
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       11
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Nana, Minotaur, Freya, Nana, Freya, Freya, Freya, Freya, Badang, Freya, Layla, Freya, Freya, Freya, Freya, Nana, Freya, Freya, Freya, Freya, Freya, Nana, Freya, Badang, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Freya, Badang
+======================================================================
+34. Device id: and_36b1a9d45beac58e3ee9acaf3030e13a2tpf1sebicn97nc217f5adab-77a6-4c96-a604-9e0d891fd383
+
+  NAME:                     Dju-
+  LEVEL:                    24
+  Country:                  id
+  Creation Date:            2017-10-21 20:31:22
+  Skin Count:               10
+  Hero Count:               21
+  Collector Point:          1070
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 10
+  Achievement Points:       12410
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster II
+  Role ID:                  112610865
+  Zone ID:                  2572
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Indonesia, Sumatera Utara, Asahan, Air Joman
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    111
+  Credits Score:            96/110
+  Followers:                27
+  Popularity:               80
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1314
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:21 (20732d 14h 22m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            270
+  Win Rate:                 99.6%
+  Battle Points (BP):       10
+  Tickets:                  310
+  Last Diamond Purchase:    N/A
+
+  History:                  Badang, Carmilla, Franco, Franco, Franco, Hanzo, Zilong, Dyrroth, Hanzo, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Granger, Akai, Tigreal, Lolita, Lolita, Layla, Layla, Layla, Layla, Layla, Layla, Eudora, Layla, Layla, Layla, Layla, Dyrroth, Layla, Miya, Franco, Layla, Layla, Franco, Franco, Franco, Franco, Franco, Franco, Franco, Miya, Eudora, Clint, Clint, Clint, Nana, Popol and Kupa
+======================================================================
+35. Device id: and_369c6adc45bcdfe0f344826b241884f315w38gqoxhuavxjx55aca62a-69e4-48dc-894c-9c8150527da6
+
+  NAME:                     Jeon_Jungkook
+  LEVEL:                    30
+  Country:                  ph
+  Creation Date:            2017-10-14 16:54:58
+  Skin Count:               16
+  Hero Count:               30
+  Collector Point:          1705
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 16
+  Achievement Points:       27800
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic IV
+  Role ID:                  109821974
+  Zone ID:                  3226
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    54
+  Credits Score:            105/110
+  Followers:                74
+  Popularity:               78
+  Bio:                      Philippines
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1012
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:16 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            741
+  Win Rate:                 52.0%
+  Battle Points (BP):       16
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Unknown(294), Roger, Roger, Aurora, Roger, Roger, Aurora, Roger, Roger, Pharsa, Vexana, Ruby, Ruby, Vexana, Vexana, Vexana, Vexana, Vexana, Vexana, Vexana, Aurora, Vexana, Vexana, Ruby, Vexana, Vexana, Vexana, Ruby, Ruby, Karrie, Karina, Badang, Karina, Beatrix, Lapu-Lapu, Karrie, Alucard, Alucard, Badang, Badang, Badang, Ruby, Ruby, Ruby, Karrie, Lapu-Lapu, Chou, Karina, Alucard
+======================================================================
+36. Device id: and_37c7b95ba6409dad5a4bbfdb8fda9fefpoiwyr00bs3qy53s599e33f1-7198-44bd-8c47-5c15e9a81a72
+
+  NAME:                     Hay Man Hninn Pwint
+  LEVEL:                    51
+  Country:                  mm
+  Creation Date:            2018-01-21 12:23:17
+  Skin Count:               21
+  Hero Count:               27
+  Collector Point:          2540
+  Collector Tier:           Amateur Collector III
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 21
+  Achievement Points:       39220
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic III
+  Role ID:                  157069006
+  Zone ID:                  2799
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    437
+  Credits Score:            100/110
+  Followers:                100
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1333
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:22 (20732d 14h 22m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            1000
+  Win Rate:                 57.3%
+  Battle Points (BP):       21
+  Tickets:                  260
+  Last Diamond Purchase:    2021-01-26 10:10 (2079d 12h 34m ago) PHT
+
+  History:                  Tigreal, Tigreal, Alucard, Franco, Franco, Franco, Alucard, Alucard, Franco, Franco, Franco, Franco, Alucard, Alucard, Tigreal, Alucard, Franco, Franco, Franco, Alucard, Alucard, Alucard, Franco, Franco, Bruno, Alucard, Franco, Alucard, Alucard, Franco, Alucard, Bane, Alucard, Tigreal, Franco, Alucard, Alucard, Alucard, Alucard, Alucard, Franco, Franco, Franco, Franco, Franco, Franco, Franco, Alucard, Franco, Franco
+======================================================================
+37. Device id: and_34d984eff4493e95f7c86c25bb77a9depo5y5kut2g5zz0i2ca18e0e7-67d3-4faa-8164-e284144b00bd
+
+  NAME:                     L.
+  LEVEL:                    23
+  Country:                  id
+  Creation Date:            2019-03-28 17:12:52
+  Skin Count:               11
+  Hero Count:               19
+  Collector Point:          1510
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 1
+  Exceptional Skins         : 0
+  Common Skins              : 10
+  Achievement Points:       22270
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster II
+  Role ID:                  1074560769
+  Zone ID:                  13290
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 Indonesia, Jawa Tengah, Surakarta, Banjarsari
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    104
+  Credits Score:            100/110
+  Followers:                31
+  Popularity:               205
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1426
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:23 (20732d 14h 20m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            310
+  Win Rate:                 44.5%
+  Battle Points (BP):       11
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Selena, Rafaela, Selena, Selena, X.Borg, Selena, Wanwan, Franco, Selena, Selena, Selena, Selena, Silvanna, Selena, Selena, Selena, Selena, Wanwan, Miya, Selena, Selena, Selena, Claude, Wanwan, Guinevere, Zilong, Zilong, Claude, Odette, Miya, Guinevere, Nana, Guinevere, Zilong, Esmeralda, Claude, Guinevere, Balmond, Zilong, Balmond, Guinevere, Miya, Balmond, Guinevere, Nana, Claude, Claude, Selena, Balmond, Guinevere
+======================================================================
+38. Device id: and_34ff3ea9c8ac525e45b354a1ccd0400cjuuybjpjximkbgta4f6e8de9-0b6e-4523-ac86-4a7559c9c6bf
+
+  NAME:                     pimentinha666
+  LEVEL:                    51
+  Country:                  br
+  Creation Date:            2020-04-19 06:08:21
+  Skin Count:               19
+  Hero Count:               26
+  Collector Point:          2070
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 19
+  Achievement Points:       40010
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic IV
+  Role ID:                  681097925
+  Zone ID:                  1267
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Brazil, São Paulo, Cotia, Caucaia do Alto
+
+  Rating Score:             4069
+  Affinity:                 Gold
+  Likes:                    895
+  Credits Score:            100/110
+  Followers:                105
+  Popularity:               56
+  Bio:                      só grab e kill
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            1053
+  Win Rate:                 98.9%
+  Battle Points (BP):       19
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Lapu-Lapu, Franco, Julian, Benedetta, Julian, Benedetta, Layla, Franco, Balmond, Layla, Layla, Balmond, Franco, Balmond, Balmond, Balmond, Balmond, Balmond, Balmond, Layla, Balmond, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Balmond, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Layla, Balmond, Layla, Balmond, Balmond, Layla, Layla, Layla, Layla, Balmond, Layla
+======================================================================
+39. Device id: and_349adf767bce980516cc5bd142ba7cfbyb3d6nimxe8u9ndc057296c0-55bc-4da5-96c3-8a16ad096273
+
+  NAME:                     Zaya ❤️
+  LEVEL:                    36
+  Country:                  de
+  Creation Date:            2019-07-26 09:13:24
+  Skin Count:               14
+  Hero Count:               26
+  Collector Point:          2060
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 1
+  Exceptional Skins         : 1
+  Common Skins              : 12
+  Achievement Points:       32790
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend II
+  Role ID:                  403866387
+  Zone ID:                  6083
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 Indonesia, Jawa Barat, Cirebon, Mundu, Waruduwur
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    137
+  Credits Score:            95/110
+  Followers:                20
+  Popularity:               346
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1816
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:30 (20732d 14h 14m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            200
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       14
+  Tickets:                  360
+  Last Diamond Purchase:    N/A
+
+  History:                  Selena, Belerick, Selena, Rafaela, Floryn, Yi Sun-shin, Alucard, Alucard, Yi Sun-shin, Diggie, Gord, Belerick, Moskov, Selena, Esmeralda, Esmeralda, Esmeralda, Moskov, Belerick, Selena, Moskov, Moskov, Selena, Esmeralda, Yi Sun-shin, Esmeralda, Selena, Gord, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Yi Sun-shin, Esmeralda, Gloo, Esmeralda, Yi Sun-shin, Martis, Rafaela, Alice, Gloo, Sun
+======================================================================
+40. Device id: and_369c2c6e4f08547e9fd42defbd39bdc9kmhth3g7lgwqrh0z005c20b8-23ba-4c32-bbe7-5fb65af8ee49
+
+  NAME:                     •ÏRØN•
+  LEVEL:                    49
+  Country:                  br
+  Creation Date:            2019-09-23 05:09:08
+  Skin Count:               20
+  Hero Count:               29
+  Collector Point:          2425
+  Collector Tier:           Amateur Collector III
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 20
+  Achievement Points:       30840
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster III
+  Role ID:                  536079925
+  Zone ID:                  1229
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Brazil, Rio de Janeiro, Rio de Janeiro, Penha
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    492
+  Credits Score:            101/110
+  Followers:                36
+  Popularity:               145
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:44 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1097
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:18 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            360
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       20
+  Tickets:                  260
+  Last Diamond Purchase:    2020-05-15 12:53 (2335d 9h 50m ago) PHT
+
+  History:                  Granger, Baxia, Estes, Johnson, Popol and Kupa, Johnson, Johnson, Roger, Johnson, Yu Zhong, Johnson, Leomord, Valir, Estes, Roger, Argus, Johnson, Atlas, Johnson, Johnson, Dyrroth, Hanabi, Johnson, Johnson, Johnson, Estes, Clint, Estes, Alucard, Estes, Estes, Valir, Granger, Granger, Roger, Estes, Estes, Estes, Argus, Estes, Granger, Dyrroth, Roger, Clint, Granger, Alucard, Granger, Alucard, Mathilda, Johnson
+======================================================================
+41. Device id: and_3502894bc260dc44f098cf8f574d9244kclr0qum14g0rya630c780c5-3bd3-46cc-9caf-afd3763a9c3f
+
+  NAME:                     Rosinante
+  LEVEL:                    16
+  Country:                  id
+  Creation Date:            2020-10-07 07:15:05
+  Skin Count:               12
+  Hero Count:               18
+  Collector Point:          1645
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 2
+  Common Skins              : 10
+  Achievement Points:       25320
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster IV
+  Role ID:                  1046532379
+  Zone ID:                  13196
+  Last Login:               2026-10-06 22:44 (0d 0h 0m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    78
+  Credits Score:            99/110
+  Followers:                25
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1092
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:18 (20732d 14h 26m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            250
+  Win Rate:                 48.0%
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Irithel, Hanabi, Esmeralda, Hayabusa, Fanny, Franco, Tigreal, Tigreal, Chou, Hayabusa, Chou, Fanny, Franco, Chou, Fanny, Chou, Franco, Fanny, Franco, Fanny, Fanny, Fanny, Joy, Franco, Fanny, Gusion, Fanny, Lylia, Lancelot, Ling, Gusion, Ling, Ling, Claude, Beatrix, Gusion, Lancelot, Ling, Ling, Esmeralda, Zilong, Harley, Ling, Ling, Lancelot, Lancelot, Ling, Ling, Ling, Lancelot
+======================================================================
+42. Device id: and_397c5b1d6d2ba041ed67d225b28c3d8d8v41kxh5lecgzz1o0f2c1149-9390-44e3-b8a8-26527c5aebbc
+
+  NAME:                     Jall
+  LEVEL:                    27
+  Country:                  id
+  Creation Date:            2020-08-14 18:34:17
+  Skin Count:               17
+  Hero Count:               19
+  Collector Point:          2010
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 2
+  Common Skins              : 15
+  Achievement Points:       27800
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster III
+  Role ID:                  774150976
+  Zone ID:                  12092
+  Last Login:               2026-10-06 22:44 (0d 0h 0m ago) PHT
+  Location:                 Indonesia, Kalimantan Barat, Sanggau, Parindu
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    148
+  Credits Score:            99/110
+  Followers:                41
+  Popularity:               249
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1724
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:28 (20732d 14h 15m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            410
+  Win Rate:                 71.2%
+  Battle Points (BP):       17
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Benedetta, Tigreal, Miya, Miya, Benedetta, Martis, Claude, Roger, Cici, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Claude, Claude, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Lancelot, Benedetta, Benedetta, Benedetta, Benedetta, Lancelot, Benedetta, Lancelot, Benedetta, Claude, Lancelot, Benedetta, Lancelot, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta, Benedetta
+======================================================================
+43. Device id: and_356a8e975d927e822c0f3aa225351fddczbno62a6kn7hpoj97d5c808-0500-41ba-aa86-749c945a99df
+
+  NAME:                     Ha-neul
+  LEVEL:                    27
+  Country:                  ph
+  Creation Date:            2022-11-11 12:44:32
+  Skin Count:               12
+  Hero Count:               23
+  Collector Point:          1740
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       32940
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Grandmaster III
+  Role ID:                  1126746445
+  Zone ID:                  11268
+  Last Login:               2026-10-06 22:42 (0d 0h 1m ago) PHT
+  Location:                 Philippines, Metropolitan Manila, Quezon City, Talipapa
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    340
+  Credits Score:            100/110
+  Followers:                47
+  Popularity:               183
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1156
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:19 (20732d 14h 25m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            470
+  Win Rate:                 79.6%
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    2022-05-28 21:09 (1592d 1h 34m ago) PHT
+
+  History:                  Esmeralda, Karrie, Karrie, Karrie, Karrie, Karrie, Karrie, Karrie, Miya, Miya, Miya, Miya, Estes, Miya, Cyclops, Cyclops, Cyclops, Miya, Estes, Miya, Miya, Miya, Miya, Cyclops, Miya, Eudora, Estes, Estes, Miya, Layla, Miya, Miya, Miya, Miya, Estes, Layla, Wanwan, Layla, Layla, Layla, Beatrix, Beatrix, Miya, Layla, Layla, Layla, Odette, Miya, Beatrix, Layla
+======================================================================
+44. Device id: and_39baa3184beb54161a6b55c1793dfde0war3bl5jazymf76fca4fad5e-8ab8-4188-af72-8f6f306ab6a9
+
+  NAME:                     Adhitamara99
+  LEVEL:                    45
+  Country:                  id
+  Creation Date:            2024-01-12 07:28:15
+  Skin Count:               21
+  Hero Count:               34
+  Collector Point:          2340
+  Collector Tier:           Amateur Collector III
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 21
+  Achievement Points:       26430
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic II
+  Role ID:                  1553095282
+  Zone ID:                  16516
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    203
+  Credits Score:            100/110
+  Followers:                20
+  Popularity:               290
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1023
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            200
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       21
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Carmilla, Balmond, Nana, Floryn, Kagura, Irithel, Saber, Nana, Irithel, Cici, Angela, Cici, Zilong, Bane, Kagura, Novaria, Chang'e, Cici, Vexana, Cici, Vexana, Cici, Ruby, Vexana, Vexana, Vexana, Martis, Zilong, Cici, Ruby, Vexana, Layla, Cici, Vexana, Cici, Vexana, Nana, Nana, Nana, Vexana, Bane, Bane, Bane, Alpha, Odette, Cici, Cici, Popol and Kupa, Alucard, Cici
+======================================================================
+45. Device id: and_39b6346874149527f4ac709fdf2dc0cahtmw84n9h8mhi8c86906ca2e-2b6e-497f-9861-4974fbed464d
+
+  NAME:                     ꧁zkııηgz꧂
+  LEVEL:                    26
+  Country:                  br
+  Creation Date:            2019-01-25 07:48:06
+  Skin Count:               12
+  Hero Count:               27
+  Collector Point:          1280
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       19620
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master IV
+  Role ID:                  369967859
+  Zone ID:                  1034
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    241
+  Credits Score:            100/110
+  Followers:                54
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 0m ago) PHT
+  Latest Skin ID:           1022
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            540
+  Win Rate:                 41.9%
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Thamuz, Thamuz, Sun, Thamuz, Thamuz, Thamuz, Thamuz, Sun, Aldous, Sun, Sun, Sun, Sun, Minotaur, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Gusion, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Sun, Alucard, Sun, Sun, Sun, Alpha, Yi Sun-shin, Khufra, Sun, Sun, Gusion
+======================================================================
+46. Device id: and_3c779eaace3736fb359352bb13c5bedeov0sbzvw8bnxmezubd08be4f-1807-48da-996a-1ad2d510d527
+
+  NAME:                     M A X I
+  LEVEL:                    17
+  Country:                  ph
+  Creation Date:            2021-08-01 20:48:37
+  Skin Count:               9
+  Hero Count:               17
+  Collector Point:          1175
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 8
+  Achievement Points:       19370
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master II
+  Role ID:                  1030040120
+  Zone ID:                  11055
+  Last Login:               2026-10-06 22:41 (0d 0h 3m ago) PHT
+  Location:                 Philippines, Misamis Oriental, Cagayan de Oro City, Carmen
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    63
+  Credits Score:            106/110
+  Followers:                15
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1724
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:28 (20732d 14h 15m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            150
+  Win Rate:                 68.7%
+  Battle Points (BP):       9
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Akai, Fanny, Gusion, Claude, Esmeralda, Beatrix, Gusion, Fanny, Fanny, Ling, Clint, Fanny, Fanny, Fanny, Zilong, Lapu-Lapu, Fanny, Eudora, Claude, Layla, Fanny, Claude, Claude, Yin, Yin, Yin, Miya, Fanny, Fanny, Fanny, Chou, Chou, Ling, Fanny, Ling, Fanny, Zilong, Fanny, Saber, Ling, Fanny, Fanny, Ling, Fanny, Zilong, Saber, Fanny, Layla, Fanny, Lancelot
+======================================================================
+47. Device id: and_38b7ac97059392f07b11fea076800b1es7patnl4thkb4dzebf7ccce1-5783-40d1-b0a3-149522a0ef74
+
+  NAME:                     ChamaNoResquen
+  LEVEL:                    43
+  Country:                  br
+  Creation Date:            2019-11-26 18:37:18
+  Skin Count:               16
+  Hero Count:               29
+  Collector Point:          2020
+  Collector Tier:           Amateur Collector IV
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 1
+  Common Skins              : 15
+  Achievement Points:       37300
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic IV
+  Role ID:                  420020554
+  Zone ID:                  1048
+  Last Login:               2026-10-06 22:44 (0d 0h 0m ago) PHT
+  Location:                 Brazil, São Paulo, São Paulo, Lajeado
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    1064
+  Credits Score:            100/110
+  Followers:                81
+  Popularity:               90
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1227
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:20 (20732d 14h 24m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            810
+  Win Rate:                 64.2%
+  Battle Points (BP):       16
+  Tickets:                  260
+  Last Diamond Purchase:    2019-11-21 00:36 (2511d 22h 8m ago) PHT
+
+  History:                  Hylos, Kalea, Estes
+======================================================================
+48. Device id: and_3a2144ef2c7e59754278f0077301945bk7hm4b1dgzd6qiq9e02b8809-3a42-46ae-8798-88af2dec6d2d
+
+  NAME:                     Weles
+  LEVEL:                    30
+  Country:                  br
+  Creation Date:            2017-12-21 06:19:59
+  Skin Count:               14
+  Hero Count:               22
+  Collector Point:          1450
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 14
+  Achievement Points:       26120
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Master II
+  Role ID:                  139633212
+  Zone ID:                  1040
+  Last Login:               2026-10-06 22:44 (0d 0h 0m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Silver
+  Likes:                    126
+  Credits Score:            100/110
+  Followers:                17
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: N/A
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            170
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       14
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Kimmy, Lesley, Unknown(298), Tigreal, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Gord, Miya, Miya, Martis, Eudora, Eudora, Eudora, Eudora, Miya, Miya, Miya, Miya, Zilong, Alucard, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Miya, Karrie, Miya
+======================================================================
+49. Device id: and_3af06724607a8d68db746c51c4f8df8aqecwi2s9dct49ekn25bf926f-1088-44a6-8757-a4377831b896
+
+  NAME:                     Caminhar do elemento
+  LEVEL:                    30
+  Country:                  br
+  Creation Date:            2018-05-10 00:25:10
+  Skin Count:               12
+  Hero Count:               17
+  Collector Point:          1245
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       42070
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Epic II
+  Role ID:                  219280990
+  Zone ID:                  1051
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 NOT FOUND
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    558
+  Credits Score:            99/110
+  Followers:                39
+  Popularity:               1
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            390
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    N/A
+
+  History:                  Tigreal, Chip, Unknown(294), Lukas, Akai, Akai, Nana, Zilong, Hayabusa, Saber, Hayabusa, Claude, Nana, Nana, Nana, Nana, Miya, Thamuz, Alucard, Harith, Lancelot, Balmond, Balmond, Aurora, Harley, Layla, Layla, Johnson, Johnson, Alpha, Fanny, Alucard, Layla, Claude, Thamuz, Balmond, Zilong, Alucard, Alucard, Alucard, Alucard, Alucard, Thamuz, Thamuz, Martis, Balmond, Lancelot, Martis, Balmond, Balmond
+======================================================================
+50. Device id: and_3da0530674fdc09d9666d7579936205fn4wplfm00gj4lb16cd58e7ca-b41f-4d5c-bd3c-f4d59ec72c22
+
+  NAME:                     GtfTv
+  LEVEL:                    49
+  Country:                  ph
+  Creation Date:            2019-06-24 15:05:10
+  Skin Count:               12
+  Hero Count:               22
+  Collector Point:          1295
+  Collector Tier:           Amateur Collector V
+  Supreme Skins             : 0
+  Grand Skins               : 0
+  Exquisite Skins           : 0
+  Deluxe Skins              : 0
+  Exceptional Skins         : 0
+  Common Skins              : 12
+  Achievement Points:       40990
+  Squad:                    —
+  CURRENT RANK:             Elite II
+  HIGHEST RANK:             Legend II
+  Role ID:                  473784074
+  Zone ID:                  3261
+  Last Login:               2026-10-06 22:42 (0d 0h 2m ago) PHT
+  Location:                 Philippines, Cebu, Lapu-Lapu City, Mactan
+
+  Rating Score:             0
+  Affinity:                 Gold
+  Likes:                    534
+  Credits Score:            100/110
+  Followers:                31
+  Popularity:               89
+  Bio:                      N/A
+  Latest Skin Purchase Date: 2026-10-06 22:43 (0d 0h 1m ago) PHT
+  Latest Skin ID:           1032
+  Latest Skin Tier:         Unknown Tier
+  Starlight User:           Yes ⭐
+  Restriction Flags:        28.6% ✅ (Low Risk)
+  Last Heroes Purchase:     1970-01-01 08:17 (20732d 14h 27m ago) PHT
+  MCL Champion Wins:        0
+
+  Total Battles:            310
+  Win Rate:                 100.0% (approx)
+  Battle Points (BP):       12
+  Tickets:                  260
+  Last Diamond Purchase:    2019-06-30 21:57 (2655d 0h 47m ago) PHT
+
+  History:                  X.Borg, Unknown(296), Obsidia, Obsidia, Obsidia, Obsidia, X.Borg, Tigreal, X.Borg, X.Borg, Saber, Novaria, Hanzo, X.Borg, X.Borg, Hanzo, Hilda, Hanzo, Joy, Joy, Joy, Hanzo, Hanzo, Hanzo, Hanzo, Hanzo, Hanzo, Hanzo, Hanzo, Hanzo
+======================================================================
